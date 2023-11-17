@@ -1,0 +1,1 @@
+insert into customer (id, name, password, email) values (1, 'A', '123', 'a123@gmail.com');
